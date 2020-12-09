@@ -48,12 +48,12 @@
 ```
     docker logs {container name}
 ```
-9. Navigate to {Server IP}:8080 in web browser and paste the password (its the long string).
+10. Navigate to {Server IP}:8080 in web browser and paste the password (its the long string).
 
-10. Install all suggested plugins.
+11. Install all suggested plugins.
 
-11. To install Blue Ocean:
+12. To install Blue Ocean:
 ```
  Manage Jenkins -> Plugins -> Available Plugins -> Install Blue Ocean
 ```
-12. Create a pipeline after installing blue ocean.
+13. Create a pipeline after installing blue ocean.
